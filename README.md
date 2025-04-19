@@ -1,2 +1,1 @@
-# configurando-instancia-banco-dados-azure
-Projeto feito durante o bootcamp XP Inc. - Cloud com Inteligência Artificial na Dio: Configurando uma instância de Banco de Dados na Azure
+"Este repositório é dedicado ao aprendizado sobre configuração de instâncias de Banco de Dados na plataforma Microsoft Azure. Durante o laboratório, foram explorados conceitos e práticas que permitem entender e implementar soluções eficazes para armazenamento e gerenciamento de dados na nuvem. Este projeto apresenta resumos, anotações detalhadas e dicas valiosas, servindo como material de apoio essencial para estudos futuros e aplicações práticas. Ideal para desenvolvedores que desejam expandir seus conhecimentos em tecnologias de banco de dados e computação em nuvem."
